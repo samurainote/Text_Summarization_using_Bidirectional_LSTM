@@ -1,1 +1,1 @@
-# Text_Summarization_using_Bidirectional_LSTM
+# Text_Summarization_using_Keras
